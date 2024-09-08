@@ -1,0 +1,2 @@
+# Exploring-Differential-Gene-Expression-and-Molecular-Signatures-in-Dengue-Virus-Infections
+This project explores gene expression in Dengue Fever (DF) and Dengue Hemorrhagic Fever (DHF) using PCA, HCA, and Random Forest classification. Significant gene expression differences were identified, and a Random Forest model achieved 82.3% accuracy in distinguishing DF from DHF, suggesting potential biomarkers for disease progression.
