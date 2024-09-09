@@ -7,8 +7,8 @@ The study utilized gene expression datasets related to dengue virus infections, 
 # Key Methodologies:
 The analysis incorporated several key techniques:
 
--**Data Preprocessing & Normalization:**
--reprocessed high-dimensional gene expression datasets and merged them with clinical metadata for comprehensive analysis.
+- **Data Preprocessing & Normalization:**
+- reprocessed high-dimensional gene expression datasets and merged them with clinical metadata for comprehensive analysis.
 
 - **Exploratory Data Analysis (EDA):**
 - Conducted Principal Component Analysis (PCA) to reduce dimensionality and visualize the variance among samples from different disease states.
