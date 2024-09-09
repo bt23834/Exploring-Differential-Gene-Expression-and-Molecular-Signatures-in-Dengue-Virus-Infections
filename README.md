@@ -7,16 +7,16 @@ The study utilized gene expression datasets related to dengue virus infections, 
 # Key Methodologies:
 The analysis incorporated several key techniques:
 
-Data Preprocessing & Normalization:
-Preprocessed high-dimensional gene expression datasets and merged them with clinical metadata for comprehensive analysis.
-Exploratory Data Analysis (EDA):
+**Data Preprocessing & Normalization:
+reprocessed high-dimensional gene expression datasets and merged them with clinical metadata for comprehensive analysis.
+**Exploratory Data Analysis (EDA):
 Conducted Principal Component Analysis (PCA) to reduce dimensionality and visualize the variance among samples from different disease states.
 Created volcano plots to identify genes with significant up- or downregulation in pairwise comparisons of disease conditions.
-Hierarchical Clustering Analysis (HCA):
+**Hierarchical Clustering Analysis (HCA):
 Used hierarchical clustering and dendrograms to visualize the similarity between samples, providing insights into how gene expression patterns relate to different clinical states.
-Statistical Testing:
+**Statistical Testing:
 Performed t-tests to identify differentially expressed genes and calculated fold changes to quantify regulation across disease states.
-Machine Learning Models:
+**Machine Learning Models:
 Trained and evaluated Random Forest classifiers to distinguish between Dengue Fever and Dengue Hemorrhagic Fever patients.
 Evaluated model performance using accuracy, precision, recall, and F1-scores to assess predictive power and clinical relevance.
 
